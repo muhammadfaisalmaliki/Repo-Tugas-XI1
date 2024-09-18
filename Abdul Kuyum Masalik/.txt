@@ -1,0 +1,4 @@
+Link LKPD PHP: http://lkpd-pplg-xi-1.infinityfreeapp.com/lkpd-php/
+Link LKPD JavaScript: http://lkpd-pplg-xi-1.infinityfreeapp.com/lkpd-html-css-js/1 (ganti 1 dengan 1-6)
+Link Project CRUD Laravel:
+Link Trello:
