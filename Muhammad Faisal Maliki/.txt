@@ -1,0 +1,4 @@
+LKPD HTML: https://github.com/muhammadfaisalmaliki/TugasHTML1sampai6.git
+LKPD PHP: https://github.com/muhammadfaisalmaliki/TugasPHP1-10.git
+LKPD LARAVEL CRUD:
+LINK TRELLO: https://trello.com/invite/b/66fa0bdf7e70ce2a015b7d0a/ATTI6a58f968359bbbe6ab2c311d640e85aaFC503021/newproject
