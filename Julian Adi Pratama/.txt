@@ -1,0 +1,5 @@
+Link Github: https://github.com/abdulkuyummasalik
+Link LKPD JavaScript PHP: https://github.com/abdulkuyummasalik/Project-LKPD-XI-1/tree/main/lkpd/lkpd-html-css-js
+Link LKPD PHP: https://github.com/abdulkuyummasalik/Project-LKPD-XI-1/tree/main/lkpd/lkpd-php
+Link Project CRUD Laravel: https://github.com/abdulkuyummasalik/Perpustakaan
+Link Trello: https://trello.com/invite/b/66fa0b7532dcd5091167f82b/ATTIc8ee38d780f0b367cff3494e9c3ab3917DC60673/perpustakaan
