@@ -1,0 +1,4 @@
+Link LKPD PHP:https://github.com/mochamad-satriya-alham/SpeedTest-PHP.git
+Link LKPD JavaScript:https://github.com/mochamad-satriya-alham/SPEDTEST-HTML-CSS-JS.git
+Link Project CRUD Laravel:
+Link Trello:
