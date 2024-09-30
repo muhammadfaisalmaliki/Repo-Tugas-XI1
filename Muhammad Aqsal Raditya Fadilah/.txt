@@ -1,0 +1,5 @@
+Link Github: https://github.com/aqsal-rdty
+Link LKPD PHP: https://github.com/aqsal-rdty/Lkpd-Php
+Link LKPD JavaScript: https://github.com/aqsal-rdty/Lkpd-JavaScript
+Link Project CRUD Laravel: https://github.com/aqsal-rdty/Perpustakaan
+Link Trello: https://trello.com/invite/b/66fa0b78c8e7a6c302cbc6ac/ATTId99304298e29be6c3f001dda041f500b4803579D/perpustakaan
