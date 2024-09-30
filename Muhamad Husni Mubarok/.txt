@@ -1,0 +1,4 @@
+LKPD 1 (HTML,CSS,JS) : https://github.com/muhamadhusnimubarok/SPEEDJS
+LKPD 2 (PHP) : https://github.com/muhamadhusnimubarok/SPEEDPHP (disatukan dengan landing page)
+CRUD LARAVEL : (progress....)
+Link Trello : (progress...)
