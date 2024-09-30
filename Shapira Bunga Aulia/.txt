@@ -1,0 +1,3 @@
+Link LKPD 1: https://github.com/Shapira-Bunga-Aulia/LKPD1.git
+Link LKPD 2: https://github.com/Shapira-Bunga-Aulia/LKPD2.git
+Link Projeck CRUD (luar projek sekolah):
