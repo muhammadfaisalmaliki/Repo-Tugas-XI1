@@ -1,2 +1,2 @@
-- https://github.com/Fakhri-Dodon/Repo-Tugas-XI1
-- 
+- Link repository HTML https://github.com/Fakhri-Dodon/LKPD-HTML
+- Link repository PHP https://github.com/Fakhri-Dodon/LKPD-PHP
