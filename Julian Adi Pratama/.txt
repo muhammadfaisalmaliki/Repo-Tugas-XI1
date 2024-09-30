@@ -1,0 +1,5 @@
+Link Github: https://github.com/Julian-Adi-Pratama
+Link LKPD HTML CSS JS: https://github.com/Julian-Adi-Pratama/LKPD-HTML-CSS-JS
+Link LKPD PHP: https://github.com/Julian-Adi-Pratama/LKPD-PHP
+Link Project CRUD Laravel: (DOING)
+Link Trello: https://trello.com/invite/b/66fa0c2523086a647ff3a6b3/ATTIa70f120cdabcad1cddfb74cf40d55388E01713E1/projek-laravel
