@@ -1,0 +1,5 @@
+Link Github: https://github.com/ZahranFairuz
+Link LKPD PHP: https://github.com/ZahranFairuz/lkpd_php_Zahran
+Link LKPD JavaScript: https://github.com/ZahranFairuz/lkpd_htcsjs_zahran
+Link Project CRUD Laravel: 
+Link Trello: 
