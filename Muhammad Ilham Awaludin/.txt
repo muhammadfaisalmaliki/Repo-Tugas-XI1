@@ -1,0 +1,4 @@
+Link LKPD 1 (HTML, CSS, JS) : https://github.com/Muhammad-Ilham-Awaludin/SpeedTest-html-css-js.git
+Link LKPD 2 (PHP): https://github.com/Muhammad-Ilham-Awaludin/SpeedTest-PHP.git
+Link Project CRUD Laravel: (Progress....)
+Link Trello : https://trello.com/invite/b/66fa0de23337441d0ba7f23c/ATTIdfd05d6fdd71d8a6384c11aa30616a922600EEDD/nameproject
