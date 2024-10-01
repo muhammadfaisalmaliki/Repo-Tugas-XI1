@@ -1,0 +1,4 @@
+Link LKPD JavaScript: https://github.com/SitiAisah26/LKPD-HTML.git
+Link LKPD PHP: https://github.com/SitiAisah26/LKPD-PHP.git
+Link Project CRUD Laravel: progres
+Link Trello: https://trello.com/invite/b/66fa0cfac9bebc4497477309/ATTIc4fd3bccbd50f5ae39ab6e9094643762DD2F29DC/project
