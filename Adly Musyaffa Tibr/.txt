@@ -1,4 +1,4 @@
 Link LKPD PHP: https://github.com/Adlymusyaffatibr/LKPD-11-PHP
 Link LKPD JavaScript:https://github.com/Adlymusyaffatibr/LKPD-11(ganti 1 dengan 1-6)
 Link Project CRUD Laravel:
-Link Trello:
+Link Trello:https://trello.com/b/ZgHlbrTn/kamu-siapa
