@@ -1,0 +1,5 @@
+Link LKPD 1: https://github.com/kafkaarko/HTMLvCSSvDASAR (ganti 1 dengan 1-6)
+Link LKPD 2: https://github.com/kafkaarko/tugas_php_logika
+Link Project CRUD Laravel:
+Link Project diluar CRUD Laravel:https://github.com/kafkaarko/Music
+Link Trello:https://trello.com/b/0DbxGY0c/projectbaru

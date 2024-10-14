@@ -1,0 +1,4 @@
+LKPD 1 (HTML, CSS, JavaScript) : {https://github.com/fatihmudab/SPEETEST-HMTL.git}
+LkPD 2 (PHP) : {https://github.com/fatihmudab/SPEETEST-PHP.git}
+LARAVEL CRUD : {ONPROGRES}
+TRELLO : {ONPROGRES}
