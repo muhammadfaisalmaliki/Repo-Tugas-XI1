@@ -1,0 +1,4 @@
+link LKPD 1 : https://github.com/kikamailani/tugas-css-php-mengulang_m1.git
+link LKPD 2 : https://github.com/kikamailani/php-XI-1.git
+link Trello : https://trello.com/invite/b/66fa0bb0f779d2ac94b65852/ATTI9c1d0e240d0db7206baa06d7791ffe082DA2E295/project-laravel
+link crud : on progres
