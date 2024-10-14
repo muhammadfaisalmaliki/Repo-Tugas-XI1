@@ -1,3 +1,3 @@
 - Link repository HTML = https://github.com/Fakhri-Dodon/LKPD-HTML
 - Link repository PHP = https://github.com/Fakhri-Dodon/LKPD-PHP
-- Link Trello = https://trello.com/invite/b/66fa112a4eed0e8ca14b944e/ATTI03891e58f059216bc97178dc8c7bef34A008A053/simple-project-boardgkt
+- Link Trello = https://trello.com/invite/b/670c7345e3d4fd5082375219/ATTIe5c60904a7ea00cafbed46894acd1a6f1A724DC3/pustakawan-cerdas-ptc
