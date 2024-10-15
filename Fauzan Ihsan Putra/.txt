@@ -2,3 +2,4 @@ LKPD 1 (HTML, CSS, JS) : https://github.com/FauzanIhsanPutra/LKS-HTML
 LKPD 2 (PHP) : https://github.com/FauzanIhsanPutra/Speedtest-PHP
 Laravel (diluar project sekul) : (progress...)
 Laravel Apotek : ()
+Link trello : https://trello.com/invite/b/66fa0b859b7a1c9c6a96ba68/ATTI86469cf0a6bbdf053675611ebacc44c949E04F99/perpustakaan-online

@@ -1,1 +1,4 @@
 LKPD speedtest HTML&PHP: https://github.com/muhamadpriskayamani/Speedtest.git
+Link Project CRUD Laravel:
+Link Project diluar CRUD Laravel:
+Link Trello: https://trello.com/invite/b/66fa0bda57e08515cfc364ed/ATTIb2fa88ec48f5d63a96f2bd1dd903e48cF7D55E9C/projek-laravel
